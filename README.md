@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Dilawaiz 👋
 
-<!--
-**Muhammad-Dilawaiz/Muhammad-Dilawaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineer and the Co-Founder of **AVEX SOLs**, where I build modern web applications, business websites, and scalable digital solutions.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into clean, functional, and user-friendly products while continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+
+- Building the AVEX SOLs company 
+- Full Stack Web Development (MERN)
+- AI-powered web applications
+- Open-source projects
+- Expanding my software engineering skills
+
+## 🌱 Currently Learning
+
+- System Design
+- Cloud Computing
+- DevOps
+- AI Integrations
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: www.linkedin.com/in/muhammad-dilawaiz-ashraf
+- 🌐 Website: https://avexsols.tech/
+- 📧 Email: dilawaiz.pro@email.com
+
+> *"Building software that solves real problems."*
